@@ -15,3 +15,31 @@
         }
   ]
 }
+
+{
+      "address": "TRtgjeEnCYK5LHgZui47ph3ge6dSyiPswJ",
+      "symbol": "JPM",
+      "name": "JPM",
+      "decimals": 18,
+      "logoURI": "https://github.com/USDJPM/JPM/blob/main/logo.png",
+      "homepage": "https://www.usdjpm.com/",
+      "MarketCapLink": "https://www.coingecko.com/en/coins/usdjpm/usd",
+      "existingMarkets": [
+          {
+              "source": "Koinpark",
+              "pairs": [
+                  "JPM/USDT",
+                  "JPM/INR",
+                  "JPM/ETH",
+                  "JPM/BTC"
+              ]
+          },]
+}
+
+https://www.koinpark.com/trade/JPM-INR
+
+https://www.koinpark.com/trade/JPM-USDT
+
+https://www.koinpark.com/trade/JPM-ETH
+
+https://www.koinpark.com/trade/JPM-BTC
